@@ -347,15 +347,18 @@ body {
 
 @media (max-width: 426px) {
   .game {
-    width: 92%;
-    margin: 0;
+    width: 100%;
+    margin: 0 auto;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
   }
 
   .card_back, .card_front, .card_bag  {
-    background-size: 84%;
-    width: 80px;
-    height: 110px;
+    background-size: 89%;
+    width: 70px;
+    height: 96px;
   } 
 
   .choice {

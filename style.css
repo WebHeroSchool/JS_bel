@@ -353,8 +353,8 @@ body {
   }
 
   .card_back, .card_front, .card_bag  {
-    background-size: 71%;
-    width: 88px;
+    background-size: 84%;
+    width: 80px;
     height: 110px;
   } 
 
